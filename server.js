@@ -31,7 +31,7 @@ var articles = {
                  This is the content for my second article.This is the content for my second article.
                </p> `
                   },
-     'article-Three': {
+     'article-three': {
           title: 'Article 3 | Aditya Kodte',
           heading: 'Article Three',
           date: 'March 03,2017',
